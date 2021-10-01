@@ -1,4 +1,3 @@
-
 # GOCI-II Slot-7 URL list making (1 day) code
 import arrow
 seoul = arrow.get('2021-08-31 07:00')
